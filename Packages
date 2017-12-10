@@ -1,0 +1,15 @@
+Package: com.yourcompany.transparentdock
+Version: 0.0.7
+Architecture: iphoneos-arm
+Maintainer: Luc4Rz
+Installed-Size: 0.12
+Depends: mobilesubstrate
+Filename: ./debs/TranspyDock.deb
+Size: 7926
+MD5sum: 0de842b9f111b3a6ef3ac43fcb05a4ef
+SHA1: e438164f6db7222a71da53183f57078f86f8a3db
+SHA256: 39a170fda00582e641738363bc9a1910c11fdc3022db48a89068b29b6a0ccfc2
+Section: Tweaks
+Description: makes your Dock transparent !
+Author: Luc4Rz
+Name: TranspyDock
